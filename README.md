@@ -1,4 +1,4 @@
-# Hi there, I'm Gagandeep Kaur 👋
+ Hi there, I'm Gagandeep Kaur 👋
 🎓 B.E. CSE (AIML) Student at Chandigarh University
 💡 Passionate about Artificial Intelligence, Machine Learning & Web Development
 🚀 Open Source Contributor at GSSoC 2026
