@@ -1,9 +1,9 @@
- Hi there, I'm Gagandeep Kaur 👋
-🎓 B.E. CSE (AIML) Student at Chandigarh University
-💡 Passionate about Artificial Intelligence, Machine Learning & Web Development
-🚀 Open Source Contributor at GSSoC 2026
-🌱 Currently learning DSA, Generative AI & Full Stack Development
-🔬 Interested in AI Research, Intelligent Systems & Real-World Problem Solving
+## Hi, I'm Gagandeep Kaur 👋
+🎓 B.E. CSE (AIML) @ Chandigarh University
+💻 AI/ML • Web Development • Generative AI
+🚀 Open Source Contributor @ GSSoC 2026
+🌱 Learning DSA & Full Stack Development
+
 ---
 ## 🛠️ Tech Stack
 * 💻 Languages: Python, C++, Java
