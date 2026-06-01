@@ -1,40 +1,19 @@
 ## Hi, I'm Gagandeep Kaur 👋
-🎓 B.E. CSE (AIML) @ Chandigarh University
-💻 AI/ML • Web Development • Generative AI
-🚀 Open Source Contributor @ GSSoC 2026
-🌱 Learning DSA & Full Stack Development
+ B.E. CSE (AIML) @ Chandigarh University
+ AI/ML • Web Development • Generative AI
+ Open Source Contributor @ GSSoC 2026
+ Learning DSA & Full Stack Development
 
+
+CURRENTLY:
+*  Open Source Contributor — GSSoC 2026
+*  Web Development Intern
+*  Public Relations Head
+*  Research Paper on ML Error Reduction Techniques
+*  Completed Google AI Essentials Certification
+*  Tata & Deloitte Job Simulations
 ---
-## 🛠️ Tech Stack
-* 💻 Languages: Python, C++, Java
-* 🌐 Web Technologies: HTML, CSS, JavaScript
-* 🤖 AI/ML: Machine Learning, Data Science, TensorFlow, Scikit-learn
-* 🗄️ Core CS: DBMS, Operating Systems, OOPs, COA
-* 🔧 Tools: Git, GitHub, VS Code, Jupyter Notebook
----
-## 📌 Current Focus
-* Building AI & Web Development Projects
-* Practicing Data Structures & Algorithms
-* Exploring Generative AI & Open Source Contributions
-* Working on Research-Oriented Problem Solving
----
-## 📚 Research Interests
-* Machine Learning
-* Generative AI
-* Intelligent Systems
-* IoT Security
-* Computer Vision
-* Data Analytics
----
-## 🏆 Achievements & Experience
-* ✨ Open Source Contributor — GSSoC 2026
-* 💼 Web Development Intern
-* 🤝 Public Relations Head
-* 📄 Research Paper on ML Error Reduction Techniques
-* 📘 Completed Google AI Essentials Certification
-* 🧠 Tata & Deloitte Job Simulations
----
-## 📫 Connect With Me
+##  Connect With Me
 * 💼 LinkedIn: [www.linkedin.com/in/gagandeep-kaur-bb5b4b320](http://www.linkedin.com/in/gagandeep-kaur-bb5b4b320)
 * 📧 Email: [kaurgagandeep2316@gmail.com](mailto:kaurgagandeep2316@gmail.com)
 
